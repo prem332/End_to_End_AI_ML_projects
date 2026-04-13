@@ -1,0 +1,3 @@
+[submodule "Mental_Health_Sentiment_Analysis_GCP"]
+	path = Mental_Health_Sentiment_Analysis_GCP
+	url = https://github.com/prem332/mental-health-sentiment-gcp.git
